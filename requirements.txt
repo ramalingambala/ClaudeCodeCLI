@@ -1,0 +1,4 @@
+anthropic[vertex]
+google-cloud-aiplatform
+requests
+python-dotenv
